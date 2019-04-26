@@ -5,5 +5,5 @@ Helper functions
 
 Helper functions created to help optomize coding process. 
 
-arraysMatch.js - checks to see if two (2) arrays are equal. /n
+arraysMatch.js - checks to see if two (2) arrays are equal. 
 isObjectEqual.js - checks to see if objects are equal to one another,
